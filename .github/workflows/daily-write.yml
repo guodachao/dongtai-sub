@@ -19,7 +19,7 @@ on:
   workflow_dispatch: # 核心配置：允许手动触发
     inputs:          # (可选) 你还可以定义运行时的输入参数
       reason:
-        description: '运行原因'
+        description: '手动触发任务'
         required: false
         default: '手动测试'
 
