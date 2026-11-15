@@ -22,7 +22,7 @@
 将下面这段url粘贴进订阅
 
 ```sh
-https://raw.githubusercontent.com/wenxig/dongtai-sub/refs/heads/main/data/sub.txt
+https://raw.githubusercontent.com/wenxig/alvin9999-sub/refs/heads/main/data/sub.txt
 ```
 
 ### clash
@@ -30,5 +30,8 @@ https://raw.githubusercontent.com/wenxig/dongtai-sub/refs/heads/main/data/sub.tx
 将下面这段url粘贴进订阅
 
 ```sh
-https://raw.githubusercontent.com/wenxig/dongtai-sub/refs/heads/main/data/sub.yaml
+https://raw.githubusercontent.com/wenxig/alvin9999-sub/refs/heads/main/data/sub.yaml
 ```
+
+> [!IMPORTANT]
+> 本服务仅为自动抓取外部资源，并非资源的来源或制造者，不对资源本身负责。本服务仅对科研和教育提供服务，禁止用作其他行为。因使用本服务造成的一切问题，或来源本身产生或引发的任何问题，本人概不负责。本人严肃反对任何企图或进行任何分裂国家的行为，坚决拥护国家统治。任何企图破坏中国国家和社会稳定的组织或个人使用本服务本人均不支持且概不负责。
