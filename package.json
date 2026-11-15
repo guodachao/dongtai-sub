@@ -9,7 +9,7 @@
   "main": "./src/index.ts",
   "devDependencies": {
     "@types/bun": "^1.4.4",
-    "typescript": "^7.0.2"
+    "typescript": "npm:typescript-native-bridge@6.0.3-bridge.19.tsgo.7.0.2"
   },
   "packageManager": "bun@1.4.4"
 }

@@ -3,7 +3,7 @@ import type { SourceGetter } from '../model'
 import { extractSubscriptions } from './extract'
 
 const source =
-  'https://raw.githubusercontent.com/wiki/Alvin9999-newpac/fanqiang/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7.md'
+  'https://alvin9999.com/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/'
 
 export default (async (): Promise<string[]> => {
   const res = await Bun.fetch(source, { method: 'GET' })
